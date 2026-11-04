@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Begonia AI
 
 Ben, Tech Istanbul Uygulamalı Yapay Zekâ Geliştirme Bootcamp bitirme projem kapsamında Begonia AI adlı Türkçe otel resepsiyon asistanını geliştiriyorum. Bu depoda başlangıç yapılandırması, gerçek oda araçları ve ADIM 3A eğitim hazırlığı bulunur.
@@ -83,3 +84,6 @@ SUPABASE_GUEST_REQUESTS_TABLE=konuk_talepleri
 SUPABASE_GUEST_REQUESTS_GUEST_NAME_COLUMN=konuk_adi
 SUPABASE_GUEST_REQUESTS_ROOM_NUMBER_COLUMN=oda_no
 ```
+=======
+# begonia-ai
+>>>>>>> 444e2579be24d5848d06c42ecfee61470ccdedbf
