@@ -1,0 +1,9 @@
+oda_tipi,kapasite,metrekare,manzara,gecelik_fiyat_tl,evcil_hayvan,oda_sayisi
+Standart Bahçe Odası,2,24,bahçe,4200,evet,14
+Standart Deniz Odası,2,24,deniz,5200,hayır,18
+Superior Deniz Odası,3,32,deniz,6400,hayır,12
+Aile Odası,4,40,bahçe,7400,hayır,8
+Bahçe Katı Suit,3,48,bahçe,8900,evet,4
+Deniz Manzaralı Suit,3,55,deniz,11500,hayır,4
+Erişilebilir Oda,2,30,bahçe,4200,hayır,3
+Kral Dairesi,4,95,deniz,24000,hayır,1

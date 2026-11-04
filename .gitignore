@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Ortam değişkenleri ve editör dosyaları
+.env
+.vscode/
+.idea/
+
+# Yerel çalışma çıktıları
+reports/*.html
+reports/*.pdf
+reports/*.png
+
+# Sonradan eklenecek büyük model ve vektör verileri
+models/
+chroma_db/
+*.safetensors
+*.gguf

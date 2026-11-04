@@ -1,0 +1,16 @@
+soru,beklenen_cevap,kaynak
+Odaya kaçta girebilirim?,14:00; müsaitse 10:00'dan itibaren 1.000 TL ile erken giriş.,Giriş ve çıkış
+Rezervasyonumu 3 gün kala iptal edersem ne öderim?,İlk gecenin ücreti.,Rezervasyon ve iptal
+Kahvaltı saat kaça kadar?,10:30'a kadar (07:30-10:30).,Yeme içme
+Kapalı havuz kışın açık mı?,"Evet, yıl boyunca 09:00-21:00.",Havuz ve plaj
+Masaj fiyatları ne kadar?,"50 dk klasik 2.200 TL, 80 dk aromaterapi 3.100 TL.",Spa
+Kedimi getirebilir miyim?,"10 kg altı ise evet; gecelik 600 TL, yalnızca bahçe katı odalar.",Evcil hayvan
+Havalimanından alıyor musunuz?,"Evet; tek yön 1.800 TL (VIP 3.000 TL), 48 saat önceden talep.",Havalimanı transferi
+Balkonda sigara içebilir miyim?,Hayır; ihlalde 5.000 TL temizlik ücreti.,Sigara
+Elektrikli aracımı şarj edebilir miyim?,"Evet; iki istasyon, kWh başına 12 TL.",Otopark ve şarj
+Aile Odası kaç kişilik ve gecesi ne kadar?,"4 kişilik, 40 m2, bahçe manzaralı, gecelik 7.400 TL.",tablo: odalar.csv
+Deniz Manzaralı Suit'te 3 gece kalırsam ne öderim?,3 x 11.500 = 34.500 TL.,tablo + hesap
+Otel kaç yıldızlı?,Rehberde yok; uydurmamalı.,yok
+Düğün organizasyonu yapıyor musunuz?,Rehberde yok; uydurmamalı.,yok
+Standart Bahçe Odası'nda evcil hayvanla 2 gece kalırsam ne öderim?,2 x 4.200 TL + 2 x 600 TL = 9.600 TL.,araç: konaklama_ucreti
+Deniz Manzaralı Suit için 2027-01-01 rezervasyonuyla 2027-03-02 girişte 3 gece ne öderim?,3 x 11.500 TL - %15 erken rezervasyon indirimi = 29.325 TL.,araç: konaklama_ucreti
